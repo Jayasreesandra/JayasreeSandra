@@ -18,9 +18,9 @@
 
 ## 🔭 Current Focus On
 
-- 🚀 Building scalable micro-frontend architectures for Fintech platforms
-- 🔐 Developing secure KYC and Customer onboarding applications 
-- 🧠 Expanding into full-satck with Java Spring Boot basics and Node.JS
+- 🚀 Building scalable micro-frontend architectures for FinTech serving Banking
+- 🔐 Developing secure KYC, Customer onboarding, B2B & B2C applications 
+- 🧠 Expanding into full-satck with Java Spring Boot and Node.JS
 - 💬 Crafting seamless user experiences for high-volume banking applications
 
 ---
@@ -37,7 +37,7 @@
 ### 👁️‍🗨️ **Bachelor's Project – CYBER THREAT PREDECTIVE ANALYTICS FOR IMPROVING CYBER SUPPLY CHAIN SECURITY**  
 *Jan 2022 – May 2022*  
 - To Predict the threat by using Cyber Threat Intelligence Properties  
-- Built Using Python, PyCharm and framework is Flask 
+- Built Using Python, PyCharm and framework using Flask 
 - Delivered a fully functionality, for Threat Prevention using ML
 
 ---
