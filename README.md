@@ -73,7 +73,7 @@
 ## 🎓 Education
 
 🎓 **B.Tech in Information technology**  
-* Sree Vidyanikethan Engineering College - MBU University – 2018 to 2022*  
+* Sree Vidyanikethan Engineering College - MBU University – 2018 to 2022
 
 ---
 
