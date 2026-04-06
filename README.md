@@ -27,7 +27,7 @@
 
 ## 💼 Work Experience
 
-### 🏦 **Frontend Developer – Acabes The Tech Company Of Arab bank, Kochi, India**  
+### 🏦 **Frontend Developer – Acabes The Tech Company Of Arab Bank, Kochi, India**  
 *June 2022 – Present*  
 - Developed B2B, B2C and mini-app applications using React & Redux 
 - Implemnted secure sin-in flows including reCAPTCHA integration, OTP scanning, and credential encryption
@@ -72,7 +72,7 @@
 
 ## 🎓 Education
 
-🎓 **B.Tech. in Information technology**  
+🎓 **B.Tech in Information technology**  
 * Sree Vidyanikethan Engineering College - MBU University – 2018 to 2022*  
 
 ---
@@ -100,4 +100,3 @@
 
 ---
 
-> – *Jayasree Sandra*
