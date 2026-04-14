@@ -10,7 +10,7 @@
 
 - **Languages:** JavaScript, Typescript, Java(Spring Boot basics)
 - **Frameworks/Libraries:** React.JS, redux Toolkit, MUI, Bootstrap, React Native(Basics)
-- **Frontend:** HTML, CSS, MUI, NextJS, RecatJS
+- **Frontend:** HTML, CSS, MUI, NextJS, ReactJS
 - **DevOps/Tools:** Jenkins, GitHub Actions, GitLab CI/CD, Git&GitHub 
 - **Databases:** PostgreSQL, MongoDB,
 
