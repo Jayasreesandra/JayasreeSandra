@@ -54,7 +54,7 @@
 ### Customer OnBoarding
 - Developed a mini-app that streamlines the customer onboarding process with a mobile-first approach
 - Focused on smooth user flows, validation, and API integration for seamless back-end communication
--  Implemented and managed Backoffice applications with React, improving operational efficiency for user management and order processing
+- Implemented and managed Backoffice applications with React, improving operational efficiency for user management and order processing
 
 ### 🆔 IBM BPM (Digital BPM)
 *October 2023 – September 2024*  
@@ -66,7 +66,7 @@
   ### CRM Flow 
   - developed CRM module within DBPM platform enabling users to initiate and manage CRM calls with steamlined workflows.
   - Built call initiation interface with form validtaions and real-time status updates for efficient CRM process manageemnt.
-  - Implemented CRM call updta efunctionlaity with audit trail, ensuring accurate tracking and seamless back-end integration.
+  - Implemented CRM call update functionlaity with audit trail, ensuring accurate tracking and seamless back-end integration.
 
 ---
 
